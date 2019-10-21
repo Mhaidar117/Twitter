@@ -12,7 +12,7 @@ class HomeTableViewController: UITableViewController {
     
     
     var tweetArray = [NSDictionary]()
-   var numberOfTweets = 20
+   var numberOfTweets = 10
     
     let myRefreshControl = UIRefreshControl()
 
